@@ -1,5 +1,7 @@
 # Dataset: BuzzFeed News “Trending” Strip, 2018–2023
 
+*A tribute to a trailblazing newsroom.*
+
 [BuzzFeedNews.com](http://web.archive.org/web/*/https://www.buzzfeednews.com/) launched in July 2018 as the dedicated homepage for BuzzFeed News. (Previously, BuzzFeed’s news coverage was published on BuzzFeed’s main domain, `buzzfeed.com`.) One key feature of the site was its “Trending” strip, [curated by editors](https://techcrunch.com/2018/07/18/buzzfeed-news/) and highlighting up to eight articles at a time:
 
 ![Screenshot of the trending strip](misc/trending-strip-screenshot.png)
